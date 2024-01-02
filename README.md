@@ -1,6 +1,6 @@
 <h1>Split Screen Pattern</h1>
 
-<h2>Details</h2>
+<h2>Details:</h2>
 <ul>
 <li>Creating Reusable Split Screen Layout using ReactJs.</li>
 <li>Adding Styled Components Package for Styling Purposes.</li>
